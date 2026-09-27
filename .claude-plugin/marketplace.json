@@ -1,0 +1,13 @@
+{
+  "name": "riot",
+  "owner": { "name": "Damsara Perera", "url": "https://github.com/Damsara" },
+  "metadata": { "description": "riot: marketing skills for coding agents." },
+  "plugins": [
+    {
+      "name": "riot-skills",
+      "source": "./",
+      "description": "Read a product, argue four directions against each other, write a manifesto, then write pieces that sound like the builder and unlike the category.",
+      "version": "0.1.0"
+    }
+  ]
+}

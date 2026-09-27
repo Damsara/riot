@@ -1,0 +1,21 @@
+{
+  "name": "riot-skills",
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.28.1",
+  "description": "riot: marketing skills for coding agents. Reads a product, argues four directions against each other, writes a manifesto, then writes pieces that sound like the builder and unlike the category.",
+  "repository": { "type": "git", "url": "https://github.com/Damsara/riot" },
+  "license": "MIT",
+  "bin": { "riot-skills": "bin/riot-skills.js" },
+  "files": ["bin"],
+  "scripts": {
+    "changeset": "changeset",
+    "version": "changeset version && node scripts/sync-plugin-version.mjs",
+    "validate": "node scripts/validate-skills.mjs",
+    "test": "node --test",
+    "package:check": "node scripts/check-package.mjs && node --check bin/riot-skills.js && node scripts/sync-plugin-version.mjs --check"
+  },
+  "devDependencies": {
+    "@changesets/changelog-github": "^0.7.0",
+    "@changesets/cli": "^2.30.0"
+  }
+}

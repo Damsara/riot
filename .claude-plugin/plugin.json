@@ -1,0 +1,11 @@
+{
+  "name": "riot-skills",
+  "version": "0.1.0",
+  "description": "Marketing skills: read a product, argue four directions against each other, write a manifesto, then write pieces that sound like the builder and unlike the category.",
+  "author": { "name": "Damsara Perera", "url": "https://github.com/Damsara" },
+  "homepage": "https://github.com/Damsara/riot",
+  "repository": "https://github.com/Damsara/riot",
+  "license": "MIT",
+  "keywords": ["marketing", "positioning", "content", "manifesto", "skills"],
+  "skills": []
+}
