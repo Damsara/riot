@@ -2,6 +2,10 @@
 
 Marketing skills for coding agents. Reads a product, argues four directions against each other, writes a manifesto, then writes pieces that sound like the builder and unlike the category.
 
+## What happens in a session
+
+You bring a product. The chair reads it, two sub-agents research the audience and the category, and you react to five or six real examples until your taste is on the page. Four author sub-agents argue four directions and the Cop, a bored member of the audience who cannot be appealed, judges them; you choose one. That choice becomes `docs/riot/manifesto.md`, the file every piece is written from. Then you write pieces, one occasion at a time: each is drafted, checked against the category's banned list, unslopped, and read by the Cop before it ships.
+
 ## Install
 
 Two ways in, pick one.
@@ -57,6 +61,18 @@ npx riot-skills
 |---|---|
 | [`/riot-revise`](./skills/marketing/riot-revise/SKILL.md) | Reopen the manifesto when pieces have gone flat or the product changed: demote the current direction, argue four new candidates, choose again. |
 
+## Best default: /riot-me
+
+Not sure where to start? Run `/riot-me` against a product. One session gives you:
+
+- A manifesto with a chosen direction, argued against three others and judged by the Cop, not picked from a template.
+- The audience's own complaints and the category's own banned list, cited, so your pieces don't repeat a line that already reads stale.
+- The commands for what comes next, plus `/ask-riot` to find your place again if you lose track.
+
+## What riot will not do
+
+No false claims about the product, no fabricated reviews, testimonials, or press quotes, no attacks on private individuals. This is a practical rule, not a taste call: every skill that writes public-facing content checks a piece against it before writing, because these are the three things that get a builder banned from the venues the research found.
+
 ## Develop this repository
 
 ```bash
@@ -65,6 +81,8 @@ pnpm validate
 pnpm test
 pnpm package:check
 ```
+
+Every behaviour-changing branch adds a changeset (`pnpm changeset`; package `riot-skills`): patch for wording or pruning, minor for a new skill or rung, major for a removed or renamed skill. `pnpm version` rolls the next release's changesets into `CHANGELOG.md`.
 
 ## License
 
