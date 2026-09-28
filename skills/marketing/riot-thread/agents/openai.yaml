@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Thread"
+  short_description: "A thread or carousel, hook first, one beat per line, read by the Cop"
+policy:
+  allow_implicit_invocation: false

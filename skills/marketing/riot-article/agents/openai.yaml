@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Article"
+  short_description: "Long-form for dev.to, Medium, Hashnode, or your own blog, read by the Cop"
+policy:
+  allow_implicit_invocation: false
