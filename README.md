@@ -21,6 +21,12 @@ npx riot-skills
 
 ## Which skill do I use?
 
+### Rules underneath
+
+| Skill | Use it for |
+|---|---|
+| [`riot-canon`](./skills/marketing/riot-canon/SKILL.md) | The shared rules every riot discipline reads: manifesto format, rounds, the pack, fallback, unslop, venues. |
+
 ## Develop this repository
 
 ```bash
