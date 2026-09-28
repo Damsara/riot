@@ -12,6 +12,11 @@
     "./skills/marketing/stance",
     "./skills/marketing/riot-me",
     "./skills/marketing/piece",
-    "./skills/marketing/riot-post"
+    "./skills/marketing/riot-post",
+    "./skills/marketing/riot-article",
+    "./skills/marketing/riot-thread",
+    "./skills/marketing/riot-video",
+    "./skills/marketing/riot-launch",
+    "./skills/marketing/riot-revise"
   ]
 }

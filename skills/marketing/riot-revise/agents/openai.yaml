@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Revise"
+  short_description: "Reopen a flat manifesto and choose again"
+policy:
+  allow_implicit_invocation: false

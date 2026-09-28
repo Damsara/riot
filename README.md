@@ -39,7 +39,17 @@ npx riot-skills
 | Skill | Use it for |
 |---|---|
 | [`/riot-post`](./skills/marketing/riot-post/SKILL.md) | One short post (X, LinkedIn, Bluesky, Threads) written from the manifesto and read by the Cop. |
+| [`/riot-article`](./skills/marketing/riot-article/SKILL.md) | Long-form for dev.to, Medium, Hashnode, or your own blog, written from the manifesto and read by the Cop. |
+| [`/riot-thread`](./skills/marketing/riot-thread/SKILL.md) | A thread or carousel (X, LinkedIn), hook first, one beat per line, written from the manifesto and read by the Cop. |
+| [`/riot-video`](./skills/marketing/riot-video/SKILL.md) | A video script with a shot column (on screen, said aloud, duration), written from the manifesto and read by the Cop. |
+| [`/riot-launch`](./skills/marketing/riot-launch/SKILL.md) | A launch post for one named venue (Product Hunt, Show HN, a subreddit, Indie Hackers), checked against the venue's rules and read by the Cop. |
 | [`piece`](./skills/marketing/piece/SKILL.md) | Auto-fires from any format wrapper to run the loop: draft, banned-list pass, unslop, the Cop's read. |
+
+### When pieces go flat
+
+| Skill | Use it for |
+|---|---|
+| [`/riot-revise`](./skills/marketing/riot-revise/SKILL.md) | Reopen the manifesto when pieces have gone flat or the product changed: demote the current direction, argue four new candidates, choose again. |
 
 ## Develop this repository
 
