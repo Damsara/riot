@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Me"
+  short_description: "Product to manifesto in one ladder"
+policy:
+  allow_implicit_invocation: false

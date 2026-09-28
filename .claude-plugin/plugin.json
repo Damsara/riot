@@ -7,5 +7,11 @@
   "repository": "https://github.com/Damsara/riot",
   "license": "MIT",
   "keywords": ["marketing", "positioning", "content", "manifesto", "skills"],
-  "skills": ["./skills/marketing/riot-canon"]
+  "skills": [
+    "./skills/marketing/riot-canon",
+    "./skills/marketing/stance",
+    "./skills/marketing/riot-me",
+    "./skills/marketing/piece",
+    "./skills/marketing/riot-post"
+  ]
 }
