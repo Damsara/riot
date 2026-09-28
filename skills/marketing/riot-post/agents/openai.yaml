@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Post"
+  short_description: "One short post, written from the manifesto and read by the Cop"
+policy:
+  allow_implicit_invocation: false
