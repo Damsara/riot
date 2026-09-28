@@ -21,6 +21,12 @@ npx riot-skills
 
 ## Which skill do I use?
 
+### Utilities
+
+| Skill | Use it for |
+|---|---|
+| [`/ask-riot`](./skills/marketing/ask-riot/SKILL.md) | Not sure where you are with a product's marketing? Reads the manifesto and names the next command. |
+
 ### Rules underneath
 
 | Skill | Use it for |

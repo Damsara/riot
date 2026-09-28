@@ -64,6 +64,16 @@ test("ask-riot, when present, names every wrapper folder in its body", () => {
   }
 });
 
+test("ask-riot's no-manifesto line names exactly one /riot- command", () => {
+  const names = existingSkillNames();
+  if (!names.includes(ROUTER)) return;
+  const router = fs.readFileSync(path.join(skillsDir, ROUTER, "SKILL.md"), "utf8");
+  const line = router.split(/\r?\n/).find((candidate) => candidate.includes("No manifesto"));
+  assert.ok(line, `${ROUTER} must have a line mentioning "No manifesto"`);
+  const commands = line.match(/\/riot-[a-z-]+/g) ?? [];
+  assert.deepEqual(commands, ["/riot-me"], `${ROUTER}'s "No manifesto" line must name exactly /riot-me`);
+});
+
 test("non-canon skills carry at most one references/<format>.md; riot-canon may carry any", () => {
   for (const name of existingSkillNames()) {
     const referencesDir = path.join(skillsDir, name, "references");

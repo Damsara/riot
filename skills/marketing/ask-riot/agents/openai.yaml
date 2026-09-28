@@ -1,0 +1,5 @@
+interface:
+  display_name: "Ask Riot"
+  short_description: "Reads the manifesto and names the next command"
+policy:
+  allow_implicit_invocation: false
