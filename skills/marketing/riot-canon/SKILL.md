@@ -57,5 +57,5 @@ No false claims about the product, no fabricated reviews or testimonials or pres
 - riot's leading words: [leading-words.md](references/leading-words.md)
 - The bundled unslop pass: [unslop.md](references/unslop.md)
 - Launch venue rules: [venues.md](references/venues.md)
-
-The Cop's brief (`references/cop.md`) and the provocation seed list (`references/provocations.md`) are added by the next ticket.
+- The Cop's brief: [cop.md](references/cop.md)
+- The provocation seed list: [provocations.md](references/provocations.md)
