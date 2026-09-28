@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Video"
+  short_description: "A video script with a shot column, written from the manifesto and read by the Cop"
+policy:
+  allow_implicit_invocation: false

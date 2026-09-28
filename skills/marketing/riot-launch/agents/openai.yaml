@@ -1,0 +1,5 @@
+interface:
+  display_name: "Riot Launch"
+  short_description: "A launch post for one venue, checked against its rules and read by the Cop"
+policy:
+  allow_implicit_invocation: false
