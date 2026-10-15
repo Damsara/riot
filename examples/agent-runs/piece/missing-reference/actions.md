@@ -1,0 +1,1 @@
+Loaded disposable installed piece and riot-canon skills; read chosen manifesto. Resolved explicit post format to installed/riot-post/references/post.md. File existence check returned exit 1. Stopped before drafting. Production reference remains present.

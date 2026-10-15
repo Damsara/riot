@@ -1,5 +1,7 @@
 # piece demo: FocusFence, launch, launch, Show HN
 
+Historical fixture from the original workflow. This records the earlier run, not compliance with the current checkpoint, evidence, or review-record requirements. New acceptance scenarios live in `examples/workflow-regressions.md`.
+
 Manifesto: `test/fixtures/manifesto.md` (stage: chosen, direction-version: 1). Occasion: launch. Format: launch, venue Show HN. Run by hand, no builder present, per RIOT-20.
 
 ## Step 3: first draft

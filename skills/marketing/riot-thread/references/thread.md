@@ -1,6 +1,7 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > Rules for one thread on X or one carousel on LinkedIn: length, truncation, reply and dwell weighting, and what each platform punishes.
 
+Reference tables are research snapshots, not live verification. Before marking a piece ready, apply riot-canon's final-check.md to distinguish official requirements, editorial preferences, and unverified heuristics. The canon stamp dates this document revision, not a recheck of every external claim.
 # thread
 
 ## Format question
@@ -43,5 +44,5 @@ Ask which form: an X thread or a LinkedIn carousel.
 
 1. The hook is the first line and stands alone; it must work with nothing before or after it.
 2. One beat per line: each tweet or slide carries exactly one idea, never a fragment that only makes sense with the next one.
-3. The last line restates the opinion, not a call to action, unless the occasion is a launch.
-4. Every claim carries a source URL or is marked `unverified`.
+3. The last line restates the opinion by default; use a specific CTA when the intended reader action needs one.
+4. Apply riot-canon's final-check.md evidence rules; keep internal evidence in the review record and reader-facing citations in the piece.

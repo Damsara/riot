@@ -1,11 +1,12 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > Rules for a video script on YouTube long-form, Shorts, TikTok, or Reels: duration caps, monetisation thresholds, and what each platform punishes.
 
+Reference tables are research snapshots, not live verification. Before marking a piece ready, apply riot-canon's final-check.md to distinguish official requirements, editorial preferences, and unverified heuristics. The canon stamp dates this document revision, not a recheck of every external claim.
 # video
 
 ## Format question
 
-Ask one thing: talking-head or screen recording. The platform (YouTube long-form, Shorts, TikTok, or Reels) is the one the manifesto's section 2 venues name; where section 2 names none, take short vertical (Shorts, TikTok, Reels share one script) and say so.
+Ask one thing: talking-head or screen recording. Use the requested platform and duration; otherwise propose a target from section 2. If several venues fit, include that choice in the same question. A script intended for several platforms must pass each target's constraints separately.
 
 ## YouTube long-form
 
@@ -63,6 +64,6 @@ The first row is the hook.
 ## Draft rules
 
 1. The first row carries the opinion; a script that opens on a logo, a title card, or a scene-setting line before the opinion has buried its own hook.
-2. A talking-head script keeps the builder's phrasing verbatim in the "said aloud" column; paraphrasing the builder's own words for polish is a rewrite, not a script.
+2. A talking-head script uses the builder's voice in the "said aloud" column; preserve quotations exactly and vary familiar phrases when recent scripts already used them.
 3. A screen recording shows the product doing the thing the recurring move names, not a narrator describing it; the "on screen" column names the exact screen, click, or state, not "the app."
-4. Every claim in the table carries a source URL or an `unverified` mark; carry the mark forward into the piece the way the tables above do.
+4. Apply riot-canon's final-check.md evidence rules; keep source URLs and internal uncertainty out of the spoken script unless they belong in its content.

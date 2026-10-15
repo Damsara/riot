@@ -1,0 +1,1 @@
+Using the supplied synthetic Patch Ledger pack, draft a Show HN launch for its usable hosted demo. There is no public repository. Reader action: inspect the missing-file row. Success: observed row inspection. Check current official rules.

@@ -1,0 +1,3 @@
+Actual shell existence check: test -e /tmp/riot-live-piece/missing-reference/installed/riot-post/references/post.md
+Exit code: 1
+The installed directory was copied from production skills/marketing; only the disposable post reference was removed. Production skills/marketing/riot-post/references/post.md exists. No draft written.

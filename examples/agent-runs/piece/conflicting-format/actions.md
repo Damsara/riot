@@ -1,0 +1,1 @@
+Loaded riot-post wrapper, piece and riot-canon; read chosen manifesto. Detected wrapper post versus explicit thread conflict. Asked the exact question in response.md. No reply was supplied and no choice was invented. Stopped before drafting; no piece or new log.

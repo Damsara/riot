@@ -1,6 +1,7 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > Rules for one long-form article on dev.to, Medium, Hashnode, or a self-hosted blog: length, canonical URL and cross-posting, tags, and what each platform punishes.
 
+Reference tables are research snapshots, not live verification. Before marking a piece ready, apply riot-canon's final-check.md to distinguish official requirements, editorial preferences, and unverified heuristics. The canon stamp dates this document revision, not a recheck of every external claim.
 # article
 
 ## Format question
@@ -64,5 +65,5 @@ Ask which platform: dev.to, Medium, Hashnode, or a self-hosted blog.
 1. Write three title options; none is a listicle title unless the manifesto's recurring move is itself a listicle.
 2. The hook is the first two sentences; nothing after them earns the scroll past the fold.
 3. One argument per article. A second argument is a second article.
-4. End on the opinion, not a summary or a call to action.
-5. Every claim carries a source URL or is marked `unverified`.
+4. End on the opinion by default; use a specific CTA when the intended reader action needs one.
+5. Apply riot-canon's final-check.md evidence rules; keep internal evidence in the review record and reader-facing citations in the piece.

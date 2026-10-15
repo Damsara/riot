@@ -1,5 +1,7 @@
 # piece demo: FocusFence, article, why we built it, dev.to
 
+Historical fixture from the original workflow. This records the earlier run, not compliance with the current checkpoint, evidence, or review-record requirements. New acceptance scenarios live in `examples/workflow-regressions.md`.
+
 Manifesto: `test/fixtures/manifesto.md` (stage: chosen, direction-version: 1). Occasion: why we built it. Format: article, platform dev.to. Run by hand, no builder present, per RIOT-19.
 
 ## Step 3: first draft

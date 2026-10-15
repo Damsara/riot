@@ -1,5 +1,7 @@
 # VibeCheck: /riot-revise dry run (RIOT-21)
 
+Historical fixture from the original workflow. This records the earlier run, not compliance with the current checkpoint, evidence, or review-record requirements. New acceptance scenarios live in `examples/workflow-regressions.md`.
+
 Written by hand, since there is no builder in this repository to run the wrapper against. Sections 1 to 4 and the frontmatter come from `test/fixtures/stance-demo/manifesto.md`, reused unchanged. The log entries and their `result:` lines, the builder's stated reason, the four new briefs, the nine objections, and the builder's final choice are all written by hand for this demo. The one exception is the Cop's verdict below, which is a real dispatch, not a simulation.
 
 ## 1. The chair reads section 9's result lines

@@ -1,0 +1,5 @@
+Verdict: scrolled at the opening | stopped at "15-minute grace window"
+Scrolled: "Your focus block is not an empty meeting slot" is another abstract boundary line.
+Stopped: "15-minute grace window" gives me a concrete mechanic from section 1.
+Sounds like: Direction. "FocusFence says no" follows section 5's refusal stance, but its real reply is missing.
+Person or model: model. "Your focus block is not an empty meeting slot" sounds like a slogan generator.

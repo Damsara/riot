@@ -1,0 +1,1 @@
+/riot-me resumes debate, not choose: the candidate pool is intact, but The Sober Friend author has not objected to Round Four or The Grandfather Clause, and the Cop verdict is missing. I will preserve all four candidates and the seven saved objections, request only those two missing outputs, then run the Cop. No builder choice question yet.

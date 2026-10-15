@@ -1,0 +1,47 @@
+[
+  {
+    "case": "direct",
+    "status": "PASS",
+    "final_weighted_count": 209,
+    "piece_and_review_exist": true,
+    "linked_log_count": 1
+  },
+  {
+    "case": "never-repeats",
+    "status": "PASS",
+    "final_weighted_count": 164,
+    "piece_and_review_exist": true,
+    "linked_log_count": 1
+  },
+  {
+    "case": "testimonial",
+    "status": "PASS",
+    "final_weighted_count": 152,
+    "piece_and_review_exist": true,
+    "linked_log_count": 1
+  },
+  {
+    "case": "first-person",
+    "status": "PASS",
+    "final_weighted_count": 150,
+    "piece_and_review_exist": true,
+    "linked_log_count": 1
+  },
+  {
+    "case": "repetition-outcome",
+    "status": "PASS",
+    "final_weighted_count": 155,
+    "piece_and_review_exist": true,
+    "linked_log_count": 1
+  },
+  {
+    "case": "missing-reference",
+    "status": "PASS",
+    "no_draft_or_new_log": true
+  },
+  {
+    "case": "conflicting-format",
+    "status": "PASS",
+    "no_draft_or_new_log": true
+  }
+]

@@ -1,0 +1,11 @@
+SYNTHETIC ACCEPTANCE INPUT. All product and audience statements below are invented fixture evidence, not real customer research.
+Mode: piece
+1. Product: Patch Ledger is a demo that lists three synthetic receipts and marks the one with no attached file.
+2. Audience and venues: Independent bookkeepers who need to find the receipt behind an expense. Synthetic audience complaint: "A green box cannot tell me where the receipt went." No real audience quotation or URL exists.
+3. Category default: unverified synthetic category. Banned generic claims: effortless expense management, all-in-one, seamless, unlock productivity. No real competitor conclusions.
+4. Taste: Synthetic builder phrase: "Show me the missing receipt." Likes concrete objections; hates vague comfort.
+State summary: chosen version 1, no pending revision. First piece; history unavailable. Occasion is a local synthetic demo review. No customer or financial outcome claims.
+Intended reader action: inspect the missing-file row in the synthetic demo.
+Exact draft:
+A green box cannot find your receipt.
+Patch Ledger's synthetic demo marks the receipt with no file. Show me the missing receipt.

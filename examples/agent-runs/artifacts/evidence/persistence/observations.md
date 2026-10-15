@@ -1,0 +1,4 @@
+# Actual collision and recovery observations
+Before workaround: no collision failure occurred with explicit operation identity. First request reserved the unsuffixed path; saved pair without log resumed using its explicit piece path. Second identical resume left the manifest byte-for-byte unchanged. A separately explicit NEW same-slug request reserved suffix -2 and preserved the first pair. Legacy piece kept its original four fields and bytes; validation is unknown.
+
+Ambiguity: the schema identifies a log entry by piece path, but does not persist an in-flight piece operation before files exist. If a user merely says "continue missing-receipt" with an orphan pair and also wants a new same-slug piece, intent is not determinable from slug alone. Do not silently overwrite; ask whether to resume the saved path or create another piece. This run disambiguated via the saved-path prompt, not a guessed resume heuristic. No production skill changed.

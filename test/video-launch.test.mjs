@@ -35,7 +35,7 @@ test("riot-video carries exactly one reference file, references/video.md, with t
   const files = fs.readdirSync(referencesDir);
   assert.deepEqual(files, ["video.md"]);
   const firstLine = fs.readFileSync(path.join(referencesDir, "video.md"), "utf8").split(/\r?\n/)[0];
-  assert.equal(firstLine, "> canon-version: 2026-09");
+  assert.equal(firstLine, "> canon-version: 2026-10");
 });
 
 test("riot-launch carries exactly one reference file, references/launch.md, with the canon stamp", () => {
@@ -43,7 +43,7 @@ test("riot-launch carries exactly one reference file, references/launch.md, with
   const files = fs.readdirSync(referencesDir);
   assert.deepEqual(files, ["launch.md"]);
   const firstLine = fs.readFileSync(path.join(referencesDir, "launch.md"), "utf8").split(/\r?\n/)[0];
-  assert.equal(firstLine, "> canon-version: 2026-09");
+  assert.equal(firstLine, "> canon-version: 2026-10");
 });
 
 test("the video demo piece contains a table with the three shot-column names", () => {

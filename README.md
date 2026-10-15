@@ -4,7 +4,13 @@ Marketing skills for coding agents. Reads a product, argues four directions agai
 
 ## What happens in a session
 
-You bring a product. The chair reads it, two sub-agents research the audience and the category, and you react to five or six real examples until your taste is on the page. Four author sub-agents argue four directions and the Cop, a bored member of the audience who cannot be appealed, judges them; you choose one. That choice becomes `docs/riot/manifesto.md`, the file every piece is written from. Then you write pieces, one occasion at a time: each is drafted, checked against the category's banned list, unslopped, and read by the Cop before it ships.
+You bring a product. The chair reads it, two sub-agents research the audience and the category, and you react to five or six real examples until your taste is on the page. Four author sub-agents argue four directions and the Cop, a bored member of the audience who cannot be appealed, judges them; you choose one. That choice becomes `docs/riot/manifesto.md`, the file every piece is written from. Then you write pieces, one occasion at a time: each has an intended reader action, is checked against the category's banned list, unslopped, read by the Cop, and validated against evidence and the target format before being marked ready as a local draft.
+
+## Saved work and validation
+
+Riot saves partial research, candidates, objections, and pending choices in `docs/riot/checkpoint.md`, so an interrupted session resumes from the next unfinished step. Revision snapshots the active manifesto, refreshes only changed evidence, and commits the next version after your choice. A merged direction is confirmed before it replaces the old one.
+
+Every new piece has a companion `.review.md` containing its intended outcome, evidence, exact Cop-reviewed draft, subsequent edits, and final checks. `validation-status: ready` means the draft passed those checks; `blocked` names missing evidence or constraints. The Cop predicts attention, while actual outcomes belong in the content log. Existing manifestos and pieces remain readable; older pieces without validation records have unknown status.
 
 ## Install
 
@@ -81,6 +87,8 @@ pnpm validate
 pnpm test
 pnpm package:check
 ```
+
+The automated tests check skill contracts, routing, references, and example artifacts. They do not execute a model or establish audience effectiveness. A [real-agent acceptance run](./examples/agent-runs/transcript.md) separately records Codex executions and targeted retests on synthetic products. See [workflow scenarios](./examples/workflow-regressions.md) for behavioral acceptance cases and their validation boundaries.
 
 Every behaviour-changing branch adds a changeset (`pnpm changeset`; package `riot-skills`): patch for wording or pruning, minor for a new skill or rung, major for a removed or renamed skill. `pnpm version` rolls the next release's changesets into `CHANGELOG.md`.
 

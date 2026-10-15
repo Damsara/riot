@@ -1,0 +1,5 @@
+A calendar block should mean no.
+
+Our FocusFence demo shows the reply after a 15-minute grace window. Try the local demo with a teammate this week.
+
+Demo reply: "No. Focus block. Your priority is shipping the API."

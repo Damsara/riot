@@ -1,0 +1,1 @@
+Mode: piece. Exact draft: Stop counting green boxes. Patch Ledger shows which receipt has no file. Intended reader action: inspect one receipt.

@@ -1,0 +1,6 @@
+537474b53dbf41a8ee8755a5df65bb0cfa3f5e0bf289ba1410da5a64a10e7a4d  /tmp/riot-live-state/revision-commit/00-manifesto-before.md
+537474b53dbf41a8ee8755a5df65bb0cfa3f5e0bf289ba1410da5a64a10e7a4d  /tmp/riot-live-state/revision-commit/docs/riot/history/v1.md
+75ba357b1037df93f73de64a7e1722e96aec4d9404a41de670eb53f3cd523ad6  /tmp/riot-live-state/revision-commit/20-manifesto-after-replacement-before-crash.md
+75ba357b1037df93f73de64a7e1722e96aec4d9404a41de670eb53f3cd523ad6  /tmp/riot-live-state/revision-commit/docs/riot/manifesto.md
+537474b53dbf41a8ee8755a5df65bb0cfa3f5e0bf289ba1410da5a64a10e7a4d  /tmp/riot-live-state/revision-cancel/00-manifesto-before.md
+537474b53dbf41a8ee8755a5df65bb0cfa3f5e0bf289ba1410da5a64a10e7a4d  /tmp/riot-live-state/revision-cancel/docs/riot/manifesto.md

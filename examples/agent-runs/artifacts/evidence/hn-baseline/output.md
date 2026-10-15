@@ -1,0 +1,3 @@
+# Baseline output
+Current official Show HN rules permit a usable hosted experience without requiring a public repository. However the linked general HN guidelines prohibit generated post text and AI-edited comments. Therefore an AI-generated submission cannot be marked ready. Local fixture is also not public and has no evidence of substantive human project authorship. No publication performed.
+Baseline gap: original creative loop checked consequential venue requirements only after drafting. Required human authorship needs an earlier branch to avoid producing submission text. This run discovered the restriction before generating submission copy, so no fictional pre-fix ready artifact is asserted.

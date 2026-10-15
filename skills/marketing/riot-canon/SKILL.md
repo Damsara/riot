@@ -7,13 +7,13 @@ description: riot's shared rules. Use whenever a riot discipline runs, or when r
 
 ## The manifesto
 
-Find `<docs home>/manifesto.md` (docs home defaults to `docs/riot`; the manifesto's own `docs-home:` line overrides it). Read it before anything else and resume from `stage`. No manifesto means a new product: create one at `stage: none` with the format in [manifesto-format.md](references/manifesto-format.md), and tell the builder the path. Append within a session; supersede a direction with a new one rather than editing history.
+Find `<docs home>/manifesto.md` (docs home defaults to `docs/riot`; the manifesto's own `docs-home:` line overrides it). Read it before anything else, then follow [checkpoints.md](references/checkpoints.md) to resume from the saved next step. No manifesto means a new product: create one at `stage: none` with the format in [manifesto-format.md](references/manifesto-format.md), and tell the builder the path. Append within a session; supersede a direction with a new one rather than editing history.
 
 ## Rounds
 
-A **round** is every question whose prerequisites are settled, asked together, one per message, at most **five**. Ask a question only if its answer changes a line in the manifesto. Ask about the past ("the last time that happened") rather than the future. Look up what the repo or the web can answer first; dispatch a sub-agent for it where the harness has them.
+A **round** is every question whose prerequisites are settled, asked together, one per message, at most **five**. During manifesto-building rounds, ask a question only if its answer changes a line in the manifesto. Piece-specific format, evidence and outcome questions follow the piece workflow. Ask about the past ("the last time that happened") rather than the future. Look up what the repo or the web can answer first; dispatch a sub-agent for it where the harness has them.
 
-Where the builder's messages already answer a question, state what you took from them and ask them to confirm. Where the answer is a judgement call you can draft yourself, state the draft and ask the builder to confirm or correct it:
+Use answers the builder already supplied; ask again only when they conflict or leave a consequential ambiguity. Where the answer is a judgement call you can draft yourself, state the draft and ask the builder to confirm or correct it:
 
 ```
 ❓ Q1 · <title>: <question>
@@ -29,7 +29,7 @@ b) <option>
 c) not sure, you pick
 ```
 
-Story questions (the origin, the bar description, what annoys the builder about the category) are asked open, with no options and no draft. "Not sure" takes your pick: log it under Open questions in the manifesto as assumed, not decided. A builder's question gets answered, then the original question is asked again in plainer words.
+Story questions (the origin, the bar description, what annoys the builder about the category) are asked open, with no options and no draft. "Not sure" takes your pick: log it under Open questions in section 8 as assumed, not decided. A builder's question gets answered, then the original question is asked again in plainer words.
 
 ## The pack
 
@@ -59,3 +59,5 @@ No false claims about the product, no fabricated reviews or testimonials or pres
 - Launch venue rules: [venues.md](references/venues.md)
 - The Cop's brief: [cop.md](references/cop.md)
 - The provocation seed list: [provocations.md](references/provocations.md)
+- Session recovery and revision: [checkpoints.md](references/checkpoints.md)
+- Final evidence and format validation: [final-check.md](references/final-check.md)

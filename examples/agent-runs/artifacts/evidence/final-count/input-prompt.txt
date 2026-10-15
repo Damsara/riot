@@ -1,0 +1,2 @@
+Write a Bluesky post called missing-receipt for the supplied synthetic Patch Ledger manifesto. Intended action: understand why one missing receipt matters. Success signal: reader can name the missing-file row. Use no links. Treat 180 characters as my editorial target.
+After Cop review, add the supplied expanded explanation, then validate the FINAL text.

@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "stage": "chosen",
+  "all_nine_sections": true,
+  "checkpoint_archived": true,
+  "selected": "The Life of the Party",
+  "source_candidates_incorporated": true,
+  "safe_baseline_not_rejected": true,
+  "manifesto_sha256": "7e4889b120264f28ec0dd87baf459965f8c0e231a29c9a7719877e94bc46662b"
+}

@@ -1,0 +1,9 @@
+{
+  "reviewed_count_ascii_graphemes": 128,
+  "expanded_count_ascii_graphemes": 383,
+  "final_count_ascii_graphemes": 128,
+  "editorial_target": 180,
+  "expanded_over_target": true,
+  "final_within_target": true,
+  "scope": "ASCII-only text; code points equal graphemes. Official Bluesky source fetch redirected to empty body, so platform compliance unresolved. Correction only removes added expansion, preserves exact reviewed draft."
+}

@@ -1,5 +1,7 @@
 # piece demo: FocusFence, video, feature launch, screen recording, TikTok
 
+Historical fixture from the original workflow. This records the earlier run, not compliance with the current checkpoint, evidence, or review-record requirements. New acceptance scenarios live in `examples/workflow-regressions.md`.
+
 Manifesto: `test/fixtures/manifesto.md` (stage: chosen, direction-version: 1). Occasion: feature launch, the 15 minute grace window. Format: video, screen recording, platform TikTok. Run by hand, no builder present, per RIOT-20.
 
 ## Step 3: first draft

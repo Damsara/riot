@@ -1,0 +1,12 @@
+{
+  "identical_baseline_input": true,
+  "candidate_pool_byte_identical": true,
+  "seven_prior_objections_byte_identical": true,
+  "unique_objection_pairs": 9,
+  "all_objections": 9,
+  "manifesto_unchanged": true,
+  "next_step": "choose",
+  "cop_verdict_present": true,
+  "candidate_pool_sha256": "6cd9cd81726fb4ed4da818ebd9955961af9fe1642a81888afe087cd9dc637000",
+  "old_seven_sha256": "9de9c10dd4adef516ae85e45c5b7187048a152b0f57b50284fc0cbd35bc45424"
+}

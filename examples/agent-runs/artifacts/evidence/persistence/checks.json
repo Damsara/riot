@@ -1,0 +1,15 @@
+{
+  "legacy_before_sha256": "ec40a27c248c225178bbe16d14823470d62d6b723857c93502d851bfc6791445",
+  "legacy_after_sha256": "ec40a27c248c225178bbe16d14823470d62d6b723857c93502d851bfc6791445",
+  "legacy_status": "unknown",
+  "legacy_unchanged": true,
+  "first_piece_path": "persistence/docs/riot/pieces/2026-10-16-post-missing-receipt.md",
+  "second_piece_path": "persistence/docs/riot/pieces/2026-10-16-post-missing-receipt-2.md",
+  "distinct_paths": true,
+  "first_piece_unchanged": true,
+  "first_review_unchanged": true,
+  "resume_no_duplicate": true,
+  "first_log_occurrences": 1,
+  "second_log_occurrences": 1,
+  "both_pairs_exist": true
+}

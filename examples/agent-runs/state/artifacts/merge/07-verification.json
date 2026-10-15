@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "stage": "chosen",
+  "all_nine_sections": true,
+  "checkpoint_archived": true,
+  "selected": "Fresh Questions, Fragile Access",
+  "source_candidates_incorporated": true,
+  "safe_baseline_not_rejected": true,
+  "manifesto_sha256": "b39de32d5ac5f95f931af8b635b03acd20234846dea5ef5b55feb141b661a5f8"
+}

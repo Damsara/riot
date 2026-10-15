@@ -116,6 +116,12 @@ Chair: "The manifesto is at `docs/riot/manifesto.md`. Next, write a piece: `/rio
 
 See `test/fixtures/stance-demo/manifesto.md` for the state this run produces.
 
+## Current workflow acceptance notes (2026-10-16)
+
+This historical transcript is preserved, including its assumed choice and original model outputs. It predates checkpoints and final evidence validation. Under the current skills, the chair would save the candidate pool before debate, request objections from only the three challenger authors, and persist the pending choice. The safe baseline remains selectable. The assumed final choice above would not satisfy the current confirmed-choice gate.
+
+The next piece would carry the chosen Direction and Rules into the Cop's inputs. Claims such as "no repeats" would require product evidence beyond knowing that questions are generated. A direction's attention prediction would be recorded separately from measured audience results.
+
 ## What this run taught the skill
 
 - Rung 1 now asks what it does, who it is for, and what people use instead, rather than a single open "what is it," because a builder's own paragraph rarely separates those three on its own.

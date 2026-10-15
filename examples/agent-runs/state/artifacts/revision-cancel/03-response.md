@@ -1,0 +1,1 @@
+The active v1 direction is preserved in manifesto.md and its exact snapshot is history/v1.md. New pieces wait until commit or cancellation. Sections 1 to 3 need refresh; section 4 preserves your origin and dislike of euphemisms while new audience taste is pending. Research is the next step, using the team-approvals product, not the calendar pack.

@@ -1,0 +1,1 @@
+Synthetic acceptance fixture. FocusFence facts and statements come from test/fixtures/manifesto.md, not verified product behavior. example.com URLs are placeholders, not verified audience evidence. No publishing is authorized.

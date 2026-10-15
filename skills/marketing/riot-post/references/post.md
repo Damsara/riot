@@ -1,6 +1,7 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > Rules for one short post on X, LinkedIn, Bluesky, or Threads: length, link handling, hashtags, and what each platform punishes.
 
+Reference tables are research snapshots, not live verification. Before marking a piece ready, apply riot-canon's final-check.md to distinguish official requirements, editorial preferences, and unverified heuristics. The canon stamp dates this document revision, not a recheck of every external claim.
 # post
 
 ## Format question
@@ -50,4 +51,4 @@ Ask which platform: X, LinkedIn, Bluesky, or Threads.
 
 1. The hook is the first line; nothing before it earns the platform's fold.
 2. One idea per post. A second idea is a second post.
-3. End on the opinion, not a call to action, unless the occasion is a launch.
+3. End on the opinion by default; use a specific CTA when the intended reader action needs one.

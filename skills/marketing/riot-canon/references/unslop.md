@@ -1,4 +1,4 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > The bundled unslop pass. Run this on every draft before it ships; riot carries its own copy so the step never depends on an installed skill.
 
 # unslop
@@ -57,6 +57,6 @@ Feeling words instead of facts. Test: name the mechanism or the number instead o
 
 ## riot-specific
 
-riot pieces are allowed to be rough, wrong, and opinionated; that is the point of the format. This pass removes the model's tells and nothing else. It never smooths tone, never rounds a hot take into a balanced one, and never adds a hedge the author didn't write. If a sentence is blunt, keep it blunt: make sure the bluntness is the author's, not a template's.
+riot pieces are allowed to be rough and opinionated; factual claims still pass final-check.md. This pass removes the model's tells and nothing else. It never smooths tone, never rounds a hot take into a balanced one, and never adds a hedge the author didn't write. If a sentence is blunt, keep it blunt: make sure the bluntness is the author's, not a template's.
 
 Distilled from `~/.claude/skills/unslop/SKILL.md` and `chatgpt-web.md`, paraphrased, not excerpted.

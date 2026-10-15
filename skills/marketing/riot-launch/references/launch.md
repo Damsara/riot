@@ -1,6 +1,7 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > Rules for a launch post on Product Hunt, Show HN, a subreddit, or Indie Hackers: the venue check, per-venue draft rules, and what each venue punishes.
 
+Reference tables are research snapshots, not live verification. Before marking a piece ready, apply riot-canon's final-check.md to distinguish official requirements, editorial preferences, and unverified heuristics. The canon stamp dates this document revision, not a recheck of every external claim.
 # launch
 
 ## Format question
@@ -11,9 +12,13 @@ Ask which venue: Product Hunt, Show HN, a subreddit, or Indie Hackers.
 
 riot-canon's venues.md is the rule table; this file does not duplicate it. Check the piece row by row against riot-canon's venues.md and rewrite any line that breaks a rule. A Reddit row marked second-hand is verified against the subreddit's own rules page before the piece ships.
 
+## Authorship
+
+Checked 2026-10-16: [HN guidelines](https://news.ycombinator.com/newsguidelines.html) prohibit generated post text and generated or AI-edited comments. Show HN project eligibility does not override that rule. Apply riot-canon's authorship preflight and provide an internal planning handoff for a human-written submission. Recheck the primary guidelines at use time.
+
 ## Draft rules
 
-1. Show HN: link the repo, not a landing page; the first comment explains how and why it was built.
+1. Show HN: link the most direct usable experience, such as a working hosted demo or runnable repository; the human author should explain how and why it was built in their own first comment.
 2. Product Hunt: the tagline is under sixty characters; the first comment is the founder story, not a feature list.
 3. Reddit: the post is a story without a link; a link goes in the comments only if the subreddit allows it.
 4. Indie Hackers: the piece carries real numbers and what went wrong, not just what worked.

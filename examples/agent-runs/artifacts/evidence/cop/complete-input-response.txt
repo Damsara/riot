@@ -1,0 +1,5 @@
+Verdict: scrolled at nowhere | stopped at line 1
+Scrolled: didn't
+Stopped: line 1, "A green box cannot find your receipt."
+Sounds like: Direction. "marks the receipt with no file" does section 5's missing-receipt move.
+Person or model: person. "Show me the missing receipt" carries section 4's blunt builder phrase.

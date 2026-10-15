@@ -1,4 +1,4 @@
-> canon-version: 2026-09
+> canon-version: 2026-10
 > Ten seed moves the chair uses to recognise a provocation already sitting in the research, plus the rules for building the three unsafe briefs and the fixed decoy.
 
 # Provocation seeds
@@ -41,7 +41,7 @@ At least two of the three unsafe briefs are built from a specific research findi
 
 The third brief may use a seed alone, with no finding under it, only when the research pass came back thin. Mark it as such in the debate minutes when this happens.
 
-The decoy brief is fixed text, used unchanged every run:
+The decoy brief is fixed text, used unchanged every run. It is the selectable safe baseline, not an automatic rejection:
 
 > the safest, most competent direction a good agency would sell
 

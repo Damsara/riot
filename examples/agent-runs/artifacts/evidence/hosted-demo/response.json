@@ -1,0 +1,1 @@
+{"synthetic": true, "rows": [{"id": "R1", "file": "receipt-1.pdf"}, {"id": "R2", "file": null}, {"id": "R3", "file": "receipt-3.pdf"}], "missing": ["R2"]}

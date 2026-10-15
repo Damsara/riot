@@ -1,0 +1,1 @@
+Resume the interrupted write for docs/riot/pieces/2026-10-16-post-missing-receipt.md. Its piece and review are saved; repair only the absent log entry.
